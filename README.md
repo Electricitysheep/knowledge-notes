@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">📚 Knowledge Notes</h1>
-<p align="center"><b>AI · 编程 · 量化 · 求职 — 实习期间积累的学习笔记</b></p>
+<p align="center"><b>AI · 编程 · 量化 · 求职 — 个人积累的学习笔记</b></p>
 <p align="center">An Obsidian vault of curated knowledge on AI, development tools, and quantitative finance.</p>
 
 ---
